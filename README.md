@@ -67,7 +67,7 @@ Hello and welcome to my Github page! My name is Alexander Robertson, an aspiring
 I'm a few credits shy of finishing a BSc. degree at Reykjavik University where I'm ultimately pursuing a MSc degree in Computer Science.
 I serve as a board member of two university associations involved in robotics and internet of things, 
 and am currently producing a frontend state management system for a client, working as a freelance software engineer.
-My main interests are cybersecurity and software engineering. I am a casual gamer, LaVeyan-satanist, minarchist, and a polymath.
+My main interests are cybersecurity and software engineering. I'm a casual gamer, LaVeyan-satanist, minarchist, and a polymath.
 
 <!-- Technical stack --->
 
