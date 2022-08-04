@@ -110,7 +110,5 @@ My main interests are cybersecurity and software engineering. I'm a casual gamer
     <!--- Add a Github stats card --->
     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=sashathegray&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&title_color=07b5b5&text_color=07b5b5&icon_color=07b5b5&border_color=07b5b5&bg_color=DEG,111111,222222,333333,444444,555555" />
     <!--- Add a Github top languages card --->
-    <!---
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashathegray&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&title_color=07b5b5&text_color=07b5b5&icon_color=07b5b5&border_color=07b5b5&bg_color=DEG,111111,222222,333333,444444,555555&langs_count=3&custom_title=Top+3+languages used" />
-    --->
 </div>
