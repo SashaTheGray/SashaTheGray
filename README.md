@@ -63,11 +63,9 @@ Year: 2022
 
 <!-- About me -->
 
-Hello and welcome to my Github page! My name is Alexander Robertson, an aspiring cybersecurity specialist based in Iceland.
-I'm a few credits shy of finishing a BSc degree at Reykjavik University where I'm ultimately pursuing a MSc degree in Computer Science.
-I serve as a board member of two university associations involved in robotics and internet of things, 
-and am currently producing a frontend state management system for a client, working as a freelance software engineer.
-My main interests are cybersecurity and software engineering. I'm a casual gamer, LaVeyan-satanist, minarchist, and a polymath.
+Hello and welcome to my Github page! My name is Alexander Robertson, a cybersecurity specialist based in Iceland.
+I have a BSc degree in Computer Science from Reykjavik University where I currently pursue a MSc degree in the same field.
+My main interests are cybersecurity and software engineering. I'm an ex-athlete, a WoW-head, a LaVeyan-satanist, and a minarchist.
 
 <!-- Technical stack --->
 
