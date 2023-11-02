@@ -40,13 +40,6 @@ Year: 2022
 
 <br/>
 
-<!--- Add a Github profile visit counter --->
-<!--- Source: https://github.com/antonkomarev/github-profile-views-counter --->
-
-<div id="view-counter" align="center">
-    <img src="https://komarev.com/ghpvc/?username=SashaTheGray&style=for-the-badge&color=07b5b5&label=Profile Visits" width="150"/>
-</div>
-
 <!--- ------------------- --->
 <!--- PAGE MIDDLE SECTION --->
 <!--- ------------------- --->
