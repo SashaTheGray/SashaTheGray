@@ -33,7 +33,7 @@ Year: 2022
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=cyan" width="150" />
     </a>
     <!--- Adda Twitter profile banner --->
-    <a href="https://twitter.com/_sashathegray_">
+    <a href="https://x.com/_sashathegray_">
         <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=cyan" width="150" />
     </a>
 </div>
