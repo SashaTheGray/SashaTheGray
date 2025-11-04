@@ -26,12 +26,6 @@ Focus areas:
 
 ---
 
-### ⚙️ Current Operations  
-- 🧩 **Thesis** — secure bootstrap system for reproducible, hardened environments.
-- 📚 Studying **advanced cyber operations** and **offensive security methodologies**.
-
----
-
 ### 📜 Mission Log  
 - Former instructor in **Computer Science**.  
 - Experience across **offensive security**, **system integration**, and **IT infrastructure architecture**.  
