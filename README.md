@@ -1,110 +1,50 @@
-<!--- Profile presentation README.md for https://www.github.com/SashaTheGray
+# 🜏 Alexander Alpha “Sasha" Robertson  
+**Cybersecurity Engineer · Ethical Hacker · Full-Stack Engineer**
 
-This file was based off of the design found at
-https://www.sitepoint.com/github-profile-readme/
+> _“Audi - Vide - Tace”_
 
-Author: Alexander "Sasha" Robertson
-Year: 2022
---->
+---
 
-[ACCENT_COLOR]: 07b5b5
+### 🧭 WHOAMI  
+Computer Scientist specializing in **cybersecurity engineering**,  
+**adversarial simulation**, and **full-stack systems design**.  
+Builds resilient, verifiable, and automation-driven infrastructures for  
+high-stakes environments.
 
-<!--- ---------------- --->
-<!--- PAGE TOP SECTION --->
-<!--- ---------------- --->
+Focus areas:  
+- **Secure system architecture & DevSecOps automation**  
+- **Rust-based tooling & network performance analysis**  
+- **Applied cyber operations & infrastructure resilience**
 
-<!--- Add a gif at the top of the page --->
+---
 
-<div id="top-header" align="center">
-    <img src="https://media.giphy.com/media/w1xKufcsyUX91BAgid/giphy.gif" width="250"/>
-</div>
+### 🧠 Technical Arsenal  
+- **Languages:** Rust, Python, Bash, TypeScript, C#, Kotlin  
+- **Frameworks & Tools:** FastAPI, React, .NET, Docker  
+- **Security Stack:** Nmap, Burp Suite, Wireshark, Metasploit
+- **Systems:** Linux, Windows, Android  
 
+---
 
-<!--- Add social media badges --->
-<!--- Source: https://dev.to/envoy_/150-badges-for-github-pnk --->
+### ⚙️ Current Operations  
+- 🧩 **Thesis** — secure bootstrap system for reproducible, hardened environments.
+- 📚 Studying **advanced cyber operations** and **offensive security methodologies**.
 
-<div id="social-media-badges" align="center">
-    <!--- Add a LinkedIn profile banner --->
-    <a href="https://www.linkedin.com/in/sashathegray/">  
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=cyan" width="150" />
-    </a>
-    <!--- Add a Github profile banner --->
-    <a href="https://github.com/sashathegray">
-        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=cyan" width="150" />
-    </a>
-    <!--- Adda Twitter profile banner --->
-    <a href="https://x.com/_sashathegray_">
-        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=cyan" width="150" />
-    </a>
-</div>
+---
 
-<br/>
+### 📜 Mission Log  
+- Former instructor in **Computer Science**.  
+- Experience across **offensive security**, **system integration**, and **IT infrastructure architecture**.  
+- Expanding into **low-level systems**, **signal operations**, and **secure automation**.  
 
-<!--- ------------------- --->
-<!--- PAGE MIDDLE SECTION --->
-<!--- ------------------- --->
+---
 
-<!--- Add a greeting --->
+### 🛰️ Contact  
+- 📧 [contact-sasha@proton.me](mailto:contact-sasha@proton.me)  
+- 🌐 [graybird.is](https://graybird.is)  
+- 💼 [LinkedIn](https://linkedin.com/in/robertson-sasha)  
+- 🧩 [GitHub](https://github.com/SashaTheGray)
 
-<h1 id="greeting-heading" align="center">
-    <img src="https://media.giphy.com/media/ry4SKoAefPnSU59TcY/giphy.gif" width="50px"/>
-    .. Whoami ..
-    <img src="https://media.giphy.com/media/ry4SKoAefPnSU59TcY/giphy.gif" width="50px"/>
-</h1>
+---
 
-
-
-<!-- About me -->
-
-👋 Welcome to my GitHub!  
-I'm Alexander Robertson, a cybersecurity specialist and self-proclaimed nerd based in Iceland.  
-
-💻 I hold a BSc in Computer Science from Reykjavik University 
-and spend my days exploring the fascinating world of cybersecurity and software engineering.
-
-🎮 When I'm not diving into code, you can find me reliving my WoW days, pondering the philosophy of LaVeyan Satanism,
-working out, or engaging in some good ol' fashioned lollygagging.  
-
-🚀 Let's build, break, and secure the digital world together!
-
-
-<!-- Technical stack --->
-
-<h1 id="technologies-heading" align="center">
-    <img src="https://media.giphy.com/media/ry4SKoAefPnSU59TcY/giphy.gif" width="50px"/>
-    .. Technologies ..
-    <img src="https://media.giphy.com/media/ry4SKoAefPnSU59TcY/giphy.gif" width="50px"/>
-</h1>
-
-<!--- Source: https://github.com/devicons/devicon/tree/master/icons --->
-<div id=technologies align=center>
-    <!--- Save this for easier future additions --->
-    <!--- <img title="" alt="" width="50" height="50" src=""/>&nbsp --->
-    <img title="Python" alt="py" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />&nbsp
-    <img title="Flask" alt="flask" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"/>&nbsp
-    <img title="Cpp" alt="cpp" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>&nbsp
-    <img title="CSharp" alt="cs" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>&nbsp
-    <img title="Javascript" alt="js" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>&nbsp
-    <img title="Java" alt="java" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />&nbsp
-    <img title="Git" alt="git" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>&nbsp
-    <img title="LaTex" alt="tex" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"/>&nbsp
-    <img title="Linux" alt="linux" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>&nbsp
-    <img title="Bash" alt="bash" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>&nbsp
-    <img title="Lua" alt="lua" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"/>&nbsp
-</div>
-
-<!--- ------------------- --->
-<!--- PAGE BOTTOM SECTION --->
-<!--- ------------------- --->
-
-<h1 id="statistics-heading" align="center">
-    <img src="https://media.giphy.com/media/ry4SKoAefPnSU59TcY/giphy.gif" width="50px"/>
-    .. Statistics ..
-    <img src="https://media.giphy.com/media/ry4SKoAefPnSU59TcY/giphy.gif" width="50px"/>
-</h1>
-
-<!--- Add Github statistics --->
-
-<div id=github-stats align=center>
-    <!--- Add a Github stats card --->
-    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=sashathegray&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&title_color=07b5b5&text_color=07b5b5&icon_color=07b5b5&border_color=07b5b5&bg_color=DEG,111111,222222,333333,444444,555555" />
+> _“Assumption is the mother of all fuck-ups”_
