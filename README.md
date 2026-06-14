@@ -35,9 +35,7 @@ Focus areas:
 
 ### 🛰️ Contact  
 - 📧 [contact-sasha@proton.me](mailto:contact-sasha@proton.me)  
-- 🌐 [graybird.is](https://graybird.is)  
-- 💼 [LinkedIn](https://linkedin.com/in/robertson-sasha)  
-- 🧩 [GitHub](https://github.com/SashaTheGray)
+- 🌐 [graybird.is](https://graybird.is)
 
 ---
 
